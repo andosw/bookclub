@@ -1,8 +1,8 @@
 # bookclub
-==========
+
 A sandbox for bookclub problems. Starting with a wrapper on top of [lololodash](https://github.com/mdunisch/lololodash/)
 
-## Getting Started ##
+## Getting Started
 
 First, install [node](http://nodejs.org)
 
@@ -12,7 +12,7 @@ Then, install package dependencies
 
 > npm install
 
-## Week 1 ## 
+## Week 1
 Getting started with lodash. 
 We will use lololodash (fun command line powered Lodash exercises) to get us familiar with lodash.
 
