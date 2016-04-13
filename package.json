@@ -1,0 +1,24 @@
+{
+  "name": "bookclub",
+  "version": "1.0.0",
+  "description": "Bookclub Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "ln -s ./node_modules/lololodash/lololodash.js foo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andosw/bookclub.git"
+  },
+  "author": "andosw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andosw/bookclub/issues"
+  },
+  "homepage": "https://github.com/andosw/bookclub#readme",
+  "dependencies": {
+    "lodash": "^4.11.0",
+    "lololodash": "^0.8.0"
+  }
+}
